@@ -8,7 +8,6 @@ const DetailPage = () => {
 
   const fetchData = async () => {
     const response = await axios.get(`/movie/${movieId}`);
-    console.log(response);
     setMovie(response.data);
   };
 

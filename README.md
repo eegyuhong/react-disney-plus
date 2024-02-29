@@ -8,6 +8,7 @@ TMDB API를 활용해 Disney Plus App을 만든 예제로 아래 명시된 기�
 - Swiper
 - Axios
 - Firebase Authentication / Hosting
+- Redux / Redux Persist
 
 ![App](https://raw.githubusercontent.com/eegyuhong/react-disney-plus/main/_assets/screenshot.png)
 [DEMO](https://react-disney-plus-113f9.web.app/)
